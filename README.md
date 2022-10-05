@@ -1,7 +1,5 @@
 ### <div align="center">I'm Abdullah, a full-time Full Stack developer 👨‍💻 working hybridly since 2019 🚀</div>
 
-<br/>
-
 - 😜 Ex calls me Abu. Thanks for dropping by!
 
 - 🔭 I’m currently working on [My Portfolio](https://abdullahmansoor.lk).
